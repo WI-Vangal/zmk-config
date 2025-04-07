@@ -22,10 +22,10 @@
 
             display-name = "Home";
             bindings = <
-&kp ESC    &kp Q  &kp W  &kp E           &kp R               &kp T               &kp Y              &kp U                &kp I            &kp O    &kp P     &kp BSPC
-&kp TAB    &kp A  &kp S  &mt LEFT_ALT D  &mt LEFT_CONTROL F  &mt LEFT_SHIFT G    &mt RIGHT_SHIFT H  &mt RIGHT_CONTROL J  &mt RIGHT_ALT K  &kp L    &kp SEMI  &kp SQT
-&kp LSHFT  &kp Z  &kp X  &kp C           &kp V               &kp B               &kp N              &kp M                &kp COMMA        &kp DOT  &kp FSLH  &kp ESC
-                         &kp LGUI        &mo 1               &kp SPACE           &kp RET            &to 2                &kp DELETE
+&kp ESC       &kp Q  &kp W  &kp E     &kp R               &kp T               &kp Y              &kp U                &kp I       &kp O    &kp P     &kp BSPC
+&kp TAB       &kp A  &kp S  &kp D     &mt LEFT_CONTROL F  &mt LEFT_SHIFT G    &mt RIGHT_SHIFT H  &mt RIGHT_CONTROL J  &kp K       &kp L    &kp SEMI  &kp SQT
+&kp LEFT_ALT  &kp Z  &kp X  &kp C     &kp V               &kp B               &kp N              &kp M                &kp COMMA   &kp DOT  &kp FSLH  &kp BACKSLASH
+                            &kp LGUI  &mo 1               &kp SPACE           &kp RET            &to 2                &kp DELETE
             >;
         };
 
